@@ -12,4 +12,4 @@
                  [com.jcraft/jsch.agentproxy.pageant "0.0.6"]
                  [com.jcraft/jsch.agentproxy.core "0.0.6"]
                  [com.jcraft/jsch.agentproxy.jsch "0.0.6"]
-                 [com.jcraft/jsch "0.1.50"]])
+                 [com.jcraft/jsch "0.1.51-SNAPSHOT"]])
